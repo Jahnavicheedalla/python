@@ -10,7 +10,10 @@ public class ReverseString {
         String reversed = new StringBuilder(str).reverse().toString();
         System.out.println("Reversed: " + reversed);
 
-        scanner.close();
+        scanner.close
+        }
     }
-}
-scan the reverse string
+
+string is reverse
+to build the string 
+
