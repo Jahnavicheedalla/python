@@ -13,5 +13,7 @@ public class ReverseString {
         scanner.close
         }
     }
+
 string is reverse
 to build the string 
+
