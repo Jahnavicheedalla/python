@@ -13,4 +13,4 @@ public class ReverseString {
         scanner.close();
     }
 }
-
+scan the reverse string
